@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Upasna 👋
 
-<!--
-**upasna74/upasna74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student  
+💻 Learning Data Structures & Algorithms (DSA)  
+🌱 Exploring Open Source  
+🤖 Diving into Generative AI  
+🌐 Building Web Development skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Strengthening problem-solving with DSA
+- Contributing to beginner-friendly open source issues
+- Building small but consistent projects
+- Understanding AI-driven application design
+
+---
+
+## 🛠 Tech Stack (Learning & Using)
+- Java
+- Git & GitHub
+- Data Structures & Algorithms
+- HTML, CSS, JavaScript (Basics)
+- GenAI Fundamentals
+
+---
+
+## 📈 2026 Goals
+- Solve 300+ DSA problems
+- Contribute to 3 open-source projects
+- Build 5 solid portfolio projects
+- Deploy at least one web project
+
+---
+
+> “From foundations to innovation — one commit at a time.”
